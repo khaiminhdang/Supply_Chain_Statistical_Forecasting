@@ -9,7 +9,7 @@ A comprehensive, educational Visual Studio Code exploring classical **time serie
 
 ## Project Description | Supply_Chain_Statistical_Forecasting
 
-This repository contains a single, well-commented Visual Studio Code (`Time_Series_Forecasting_Exploration.ipynb`) that demonstrates:
+This repository contains a single, well-commented Visual Studio Code (`Supply_Chain_Statistical_Forecasting.py`) that demonstrates:
 
 - Synthetic monthly demand data generation (trend + seasonality + noise)
 - Common forecasting accuracy KPIs (Bias, MAE, MAPE, MSE, RMSE)
