@@ -1,4 +1,4 @@
-# A Project of Time Series Forecasting in Supply Chain Analysis | An application from the book "Data Science for Supply Chain Forecasting"
+# A Project of Time Series Forecasting in Supply Chain Analysis | Application from the book "Data Science for Supply Chain Forecasting"
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-1.20+-orange)
@@ -7,7 +7,7 @@
 
 A comprehensive, educational Jupyter notebook exploring classical **time series forecasting techniques**, with a strong focus on **exponential smoothing methods**. This project systematically builds up forecasting knowledge — from simple moving averages to advanced **triple exponential smoothing (Holt-Winters)** with **damped trends**, **multiplicative/additive seasonality**, outlier treatment, and model parameter optimization.
 
-## Project Overview
+## Project Description | Supply_Chain_Statistical_Forecasting
 
 This repository contains a single, well-commented Jupyter notebook (`Time_Series_Forecasting_Exploration.ipynb`) that demonstrates:
 
