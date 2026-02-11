@@ -5,11 +5,11 @@
 ![Pandas](https://img.shields.io/badge/Pandas-1.5+-green)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.5+-yellow)
 
-A comprehensive, educational Jupyter notebook exploring classical **time series forecasting techniques**, with a strong focus on **exponential smoothing methods**. This project systematically builds up forecasting knowledge — from simple moving averages to advanced **triple exponential smoothing (Holt-Winters)** with **damped trends**, **multiplicative/additive seasonality**, outlier treatment, and model parameter optimization.
+A comprehensive, educational Visual Studio Code exploring classical **time series forecasting techniques**, with a strong focus on **exponential smoothing methods**. This project systematically builds up forecasting knowledge — from simple moving averages to advanced **triple exponential smoothing (Holt-Winters)** with **damped trends**, **multiplicative/additive seasonality**, outlier treatment, and model parameter optimization.
 
 ## Project Description | Supply_Chain_Statistical_Forecasting
 
-This repository contains a single, well-commented Jupyter notebook (`Time_Series_Forecasting_Exploration.ipynb`) that demonstrates:
+This repository contains a single, well-commented Visual Studio Code (`Time_Series_Forecasting_Exploration.ipynb`) that demonstrates:
 
 - Synthetic monthly demand data generation (trend + seasonality + noise)
 - Common forecasting accuracy KPIs (Bias, MAE, MAPE, MSE, RMSE)
